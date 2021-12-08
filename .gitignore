@@ -22,6 +22,7 @@
 *.out
 main.pdf
 *.synctex.gz
+*.synctex(busy)
 *.fdb_latexmk
 *.fls
 *.xdv
